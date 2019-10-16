@@ -63,11 +63,27 @@
         "level":"65%"
       },
       {
-        "name":"HTML",
+        "name":"ES6",
+        "level":"75%"
+      },
+      {
+        "name":"jQuery",
+        "level":"60%"
+      },
+      {
+        "name":"AJAX",
+        "level":"50%"
+      },
+      {
+        "name":"HTML5",
         "level":"65%"
       },
       {
-        "name":"CSS",
+        "name":"CSS3",
+        "level":"50%"
+      },
+      {
+        "name":"Bootstrap",
         "level":"50%"
       },
       {
@@ -87,11 +103,11 @@
         "level":"35%"
       },
       {
-        "name":"Photoshop",
+        "name":"Adobe Photoshop",
         "level":"80%"
       },
       {
-        "name":"CorelDraw",
+        "name":"CorelDRAW",
         "level":"90%"
       },
       {
