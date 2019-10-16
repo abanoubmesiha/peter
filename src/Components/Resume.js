@@ -8,7 +8,7 @@ class Resume extends Component {
         return <div key={edu.school} className="row item">
            <div className="twelve columns">
               <h3>{edu.school}</h3>
-              <p className="info">{edu.degree} <span>&bull;</span> <em className="date">{edu.graduated}</em></p>
+              <p className="info">{edu.degree}</p>
               <p>
                 {edu.description}
               </p>
@@ -20,7 +20,7 @@ class Resume extends Component {
         return <div key={job.company} className="row item">
            <div className="twelve columns">
               <h3>{job.company}</h3>
-              <p className="info">{job.title}<span>&bull;</span> <em className="date">{job.years}</em></p>
+              <p className="info">{job.title}</p>
 
               <p>
               {job.description}
