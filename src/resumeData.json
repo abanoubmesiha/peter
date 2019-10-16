@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name":"Abanoub Ayoub",
+    "occupation":"Junior Front-End Web Developer. ",
+    "description":"I am a Self-Learner and want to prove myself and enjoy working on new technologies.",
+    "image":"profilepic.jpg",
+    "bio":"I am a Veterinarian who loves programming and decided to shift career to what i have always loved ",
+    "email": "bony.nagy@gmail.com",
+    "phone": "012-77-041-971",
+    "address":{
+      "street":"23 mohammed ghonem",
+      "city":"El Mahalla El Koubra",
+      "state":"Gharbya",
+      "zip": "31951"
+    },
+    "website": "https://app.netlify.com/teams/abanoubmesiha/sites",
+    "resumedownload":"#",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/Bony.mese7a",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/abanoub-ayoub-025890b7/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/abanoubmesiha/",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"KFS University of Veterinary Medicine",
+        "degree":"Bachelor",
+        "graduated":"June 2016",
+        "description":"Bachelor's degree at veterinary surgery and medicine."
+      }
+     
+    ],
+    "work":[
+      {
+        "company":"Fresh",
+        "title":"",
+        "years":"",
+        "description":""
+      }
+    
+    ],
+    "skills":[
+      {
+        "name":"Photoshop",
+        "level":"80%"
+      },
+      {
+        "name":"Javascript",
+        "level":"65%"
+      },
+      {
+        "name":"HTML",
+        "level":"65%"
+      },
+      {
+        "name":"CSS",
+        "level":"50%"
+      },
+      {
+        "name":"React",
+        "level":"60%"
+      },
+      {
+        "name":"Redux",
+        "level":"50%"
+      },
+      {
+        "name":"Sass",
+        "level":"40%"
+      },
+      {
+        "name":"Webpack",
+        "level":"35%"
+      }
+      
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Recipe App",
+        "description":"Recipe details and links",
+        "category":"React",
+        "tags":"Web Design",
+        "image":"recipe.jpg",
+        "url":"https://recipes-in-react.netlify.com/",
+        "modal":"#modal-01"
+      },
+      {
+        "title":"City Tours",
+        "description":"Tours Details",
+        "category":"React and Sass",
+        "tags":"Web app",
+        "image":"citytours.jpg",
+        "url":"https://city-tours-in-react-sass.netlify.com",
+        "modal":"#modal-02"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":""
+      }
+    ]
+  }
+}
