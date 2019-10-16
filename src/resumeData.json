@@ -47,9 +47,9 @@
         "className":"fa fa-github"
       },
       {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name":"stackoverflow",
+        "url":"https://stackoverflow.com/users/12149687/abanoub-meseha",
+        "className":"fa fa-stack-overflow"
       }
     ]
   },
@@ -73,10 +73,6 @@
     
     ],
     "skills":[
-      {
-        "name":"Photoshop",
-        "level":"80%"
-      },
       {
         "name":"Javascript",
         "level":"65%"
@@ -104,6 +100,18 @@
       {
         "name":"Webpack",
         "level":"35%"
+      },
+      {
+        "name":"Photoshop",
+        "level":"80%"
+      },
+      {
+        "name":"CorelDraw",
+        "level":"90%"
+      },
+      {
+        "name":"Github",
+        "level":"50%"
       }
       
     ]
