@@ -8,10 +8,10 @@
     "email": "bony.nagy@gmail.com",
     "phone": "012-77-041-971",
     "address":{
-      "street":"23 mohammed ghonem",
-      "city":"El Mahalla El Koubra",
-      "state":"Gharbya",
-      "zip": "31951"
+      "street":"",
+      "city":"",
+      "state":"Cairo",
+      "zip": ""
     },
     "website": "https://app.netlify.com/teams/abanoubmesiha/sites",
     "resumedownload":"#",
@@ -22,24 +22,9 @@
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/abanoub-ayoub-025890b7/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com",
-        "className":"fa fa-instagram"
       },
       {
         "name":"github",
