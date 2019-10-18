@@ -30,7 +30,7 @@ class App extends Component {
 
 
   render() {
-    console.log(main);
+  
     return (
       <div className="App">
         <Header data={main} />

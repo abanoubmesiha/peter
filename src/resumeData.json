@@ -154,6 +154,15 @@
         "image":"skype.jpg",
         "url":"https://skype.netlify.com/",
         "modal":"#modal-04"
+      },
+      {
+        "title":"Rock Paper Scissors Game",
+        "description":"Game",
+        "category":"plain javascript",
+        "tags":"game app",
+        "image":"rps.jpg",
+        "url":"https://rps-javascript.netlify.com/",
+        "modal":"#modal-05"
       }
     ]
   },
