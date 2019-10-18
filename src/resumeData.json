@@ -136,6 +136,15 @@
         "image":"citytours.jpg",
         "url":"https://city-tours-in-react-sass.netlify.com",
         "modal":"#modal-02"
+      },
+      {
+        "title":"Tic Tac Toe",
+        "description":"Game",
+        "category":"React",
+        "tags":"Web game",
+        "image":"ttt.jpg",
+        "url":"https://tic-game.netlify.com/",
+        "modal":"#modal-03"
       }
     ]
   },
