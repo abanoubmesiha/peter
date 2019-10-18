@@ -145,6 +145,15 @@
         "image":"ttt.jpg",
         "url":"https://tic-game.netlify.com/",
         "modal":"#modal-03"
+      },
+      {
+        "title":"Skype",
+        "description":"website",
+        "category":"React,Redux, and data auto generating",
+        "tags":"social app",
+        "image":"skype.jpg",
+        "url":"https://skype.netlify.com/",
+        "modal":"#modal-04"
       }
     ]
   },
