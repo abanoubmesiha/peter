@@ -163,6 +163,15 @@
         "image":"rps.jpg",
         "url":"https://rps-javascript.netlify.com/",
         "modal":"#modal-05"
+      },
+      {
+        "title":"Ecommerce",
+        "description":"Online Shopping",
+        "category":"React , Context API",
+        "tags":"web app",
+        "image":"ecommerce-react.jpg",
+        "url":"https://ecommerce-react-context.netlify.com/",
+        "modal":"#modal-06"
       }
     ]
   },
