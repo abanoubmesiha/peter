@@ -172,6 +172,15 @@
         "image":"ecommerce-react.jpg",
         "url":"https://ecommerce-react-context.netlify.com/",
         "modal":"#modal-06"
+      },
+      {
+        "title":"Pixel Art Maker",
+        "description":"Design",
+        "category":"React",
+        "tags":"web app",
+        "image":"pixel.jpg",
+        "url":"https://pixel-react.netlify.com/",
+        "modal":"#modal-07"
       }
     ]
   },
