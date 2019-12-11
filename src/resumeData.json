@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Abanoub Ayoub",
-    "occupation":"Junior Front-End Web Developer. ",
+    "occupation":"Junior MERN Stack Web Developer. ",
     "description":"I am a Self-Learner and want to prove myself and enjoy working on new technologies.",
     "image":"profilepic.jpg",
     "bio":"I am a Veterinarian who loves programming and decided to shift career to what i have always loved ",
@@ -67,6 +67,26 @@
         "level":"75%"
       },
       {
+        "name":"React",
+        "level":"60%"
+      },
+      {
+        "name":"Redux",
+        "level":"50%"
+      },
+      {
+        "name":"MonogoDB",
+        "level":"50%"
+      },
+      {
+        "name":"Express.js",
+        "level":"50%"
+      },
+      {
+        "name":"Node.js",
+        "level":"50%"
+      },
+      {
         "name":"jQuery",
         "level":"60%"
       },
@@ -87,14 +107,6 @@
         "level":"50%"
       },
       {
-        "name":"React",
-        "level":"60%"
-      },
-      {
-        "name":"Redux",
-        "level":"50%"
-      },
-      {
         "name":"Sass",
         "level":"40%"
       },
@@ -112,7 +124,7 @@
       },
       {
         "name":"Github",
-        "level":"50%"
+        "level":"90%"
       }
       
     ]
