@@ -132,40 +132,13 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Recipe App",
-        "description":"Recipe details and links",
-        "category":"React",
-        "tags":"Web Design",
-        "image":"recipe.jpg",
-        "url":"https://recipes-in-react.netlify.com/",
-        "modal":"#modal-01"
-      },
-      {
-        "title":"City Tours",
-        "description":"Tours Details",
-        "category":"React and Sass",
-        "tags":"Web app",
-        "image":"citytours.jpg",
-        "url":"https://city-tours-in-react-sass.netlify.com",
-        "modal":"#modal-02"
-      },
-      {
         "title":"Tic Tac Toe",
         "description":"Game",
-        "category":"React",
+        "category":"React.js",
         "tags":"Web game",
         "image":"ttt.jpg",
         "url":"https://tic-game.netlify.com/",
         "modal":"#modal-03"
-      },
-      {
-        "title":"Skype",
-        "description":"website",
-        "category":"React,Redux, and data auto generating",
-        "tags":"social app",
-        "image":"skype.jpg",
-        "url":"https://skype.netlify.com/",
-        "modal":"#modal-04"
       },
       {
         "title":"Rock Paper Scissors Game",
@@ -177,9 +150,18 @@
         "modal":"#modal-05"
       },
       {
+        "title":"Skype",
+        "description":"website",
+        "category":"React.js,Redux, and data auto generating",
+        "tags":"social app",
+        "image":"skype.jpg",
+        "url":"https://skype.netlify.com/",
+        "modal":"#modal-04"
+      },
+      {
         "title":"Ecommerce",
         "description":"Online Shopping",
-        "category":"React , Context API",
+        "category":"React.js , Context API",
         "tags":"web app",
         "image":"ecommerce-react.jpg",
         "url":"https://ecommerce-react-context.netlify.com/",
@@ -188,7 +170,7 @@
       {
         "title":"Pixel Art Maker",
         "description":"Design",
-        "category":"React",
+        "category":"React.js",
         "tags":"web app",
         "image":"pixel.jpg",
         "url":"https://pixel-react.netlify.com/",
@@ -202,6 +184,33 @@
         "image":"mybrary.png",
         "url":"https://mybrary-backend.herokuapp.com/",
         "modal":"#modal-08"
+      },
+      {
+        "title":"City Tours",
+        "description":"Tours Details",
+        "category":"React.js and Sass",
+        "tags":"Web app",
+        "image":"citytours.jpg",
+        "url":"https://city-tours-in-react-sass.netlify.com",
+        "modal":"#modal-02"
+      },
+      {
+        "title":"Recipe App",
+        "description":"Recipe details and links",
+        "category":"React.js",
+        "tags":"Web Design",
+        "image":"recipe.jpg",
+        "url":"https://recipes-in-react.netlify.com/",
+        "modal":"#modal-01"
+      },
+      {
+        "title":"M-Task",
+        "description":"system management and control panel",
+        "category":"React.js",
+        "tags":"web app",
+        "image":"m-task.jpg",
+        "url":"https://mybrary-backend.herokuapp.com/",
+        "modal":"#modal-0p"
       }
     ]
   },
