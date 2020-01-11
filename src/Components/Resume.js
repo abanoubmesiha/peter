@@ -21,10 +21,9 @@ class Resume extends Component {
            <div className="twelve columns">
               <h3>{job.company}</h3>
               <p className="info">{job.title}</p>
+              <p>From {job.from}</p>
 
-              <p>
-              {job.description}
-              </p>
+              <p>{job.description}</p>
            </div>
         </div>
       });

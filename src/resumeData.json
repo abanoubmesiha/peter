@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Abanoub Ayoub",
-    "occupation":"Junior MERN Stack Web Developer. ",
+    "occupation":"Front End Web Developer At DHS Arabia. ",
     "description":"I am a Self-Learner and want to prove myself and enjoy working on new technologies.",
     "image":"profilepic.jpg",
-    "bio":"I am a Veterinarian who loves programming and decided to shift career to what i have always loved ",
+    "bio":"I am a Self-Learner and want to prove myself and enjoy working on new technologies.I was a Veterinarian who loves programming and decided to shift career to what i have always loved",
     "email": "bony.nagy@gmail.com",
     "phone": "012-77-041-971",
     "address":{
@@ -50,14 +50,26 @@
     ],
     "work":[
       {
-        "company":"Freelancer",
-        "title":"",
-        "years":"",
-        "description":""
+        "company":"DHS Arabia",
+        "title":"Front End Developer",
+        "from":"01/2020",
+        "description":"MVC Core Views is my main project using bootstrap and javascript and i am responsible for projects i am making by React and Angular"
       }
     
     ],
     "skills":[
+      {
+        "name":"React",
+        "level":"60%"
+      },
+      {
+        "name":"Angular",
+        "level":"35%"
+      },
+      {
+        "name":"MVC Core Views",
+        "level":"40%"
+      },
       {
         "name":"Javascript",
         "level":"65%"
@@ -65,10 +77,6 @@
       {
         "name":"ES6",
         "level":"75%"
-      },
-      {
-        "name":"React",
-        "level":"60%"
       },
       {
         "name":"Redux",
@@ -131,6 +139,33 @@
   },
   "portfolio":{
     "projects": [
+      {
+        "title":"Car Rent",
+        "description":"App",
+        "category":"React.js",
+        "tags":"Service App",
+        "image":"car-rent.jpg",
+        "url":"https://car-rent.netlify.com/",
+        "modal":"#modal-10"
+      },
+      {
+        "title":"Budget Calculator",
+        "description":"App",
+        "category":"Angular",
+        "tags":"calculator App",
+        "image":"budget-cal.jpg",
+        "url":"https://budget-cal.netlify.com/",
+        "modal":"#modal-11"
+      },
+      {
+        "title":"Hotel",
+        "description":"App",
+        "category":"Angular",
+        "tags":"Service App",
+        "image":"hotel.jpg",
+        "url":"https://ng-hotel.netlify.com/",
+        "modal":"#modal-12"
+      },
       {
         "title":"Tic Tac Toe",
         "description":"Game",
