@@ -244,7 +244,7 @@
         "category":"React.js",
         "tags":"web app",
         "image":"m-task.jpg",
-        "url":"https://mybrary-backend.herokuapp.com/",
+        "url":"https://m-task.netlify.com/",
         "modal":"#modal-0p"
       }
     ]
