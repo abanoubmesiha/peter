@@ -178,7 +178,7 @@
       {
         "title":"Rock Paper Scissors Game",
         "description":"Game",
-        "category":"plain javascript",
+        "category":"Javascript",
         "tags":"game app",
         "image":"rps.jpg",
         "url":"https://rps-javascript.netlify.com/",
@@ -187,7 +187,7 @@
       {
         "title":"Skype",
         "description":"website",
-        "category":"React.js,Redux, and data auto generating",
+        "category":"React.js, Redux, and data auto generating",
         "tags":"social app",
         "image":"skype.jpg",
         "url":"https://skype.netlify.com/",
