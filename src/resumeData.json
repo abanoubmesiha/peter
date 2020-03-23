@@ -149,6 +149,24 @@
         "modal":"#modal-10"
       },
       {
+        "title":"Terkwaz",
+        "description":"digital services",
+        "category":"React.js",
+        "tags":"web app",
+        "image":"terkwaz.jpg",
+        "url":"https://terqwaz.netlify.com/",
+        "modal":"#modal-01"
+      },
+      {
+        "title":"M-Task",
+        "description":"system management and control panel",
+        "category":"React.js",
+        "tags":"web app",
+        "image":"m-task.jpg",
+        "url":"https://m-task.netlify.com/",
+        "modal":"#modal-0p"
+      },
+      {
         "title":"Budget Calculator",
         "description":"App",
         "category":"Angular",
@@ -165,15 +183,6 @@
         "image":"hotel.jpg",
         "url":"https://ng-hotel.netlify.com/",
         "modal":"#modal-12"
-      },
-      {
-        "title":"Tic Tac Toe",
-        "description":"Game",
-        "category":"React.js",
-        "tags":"Web game",
-        "image":"ttt.jpg",
-        "url":"https://tic-game.netlify.com/",
-        "modal":"#modal-03"
       },
       {
         "title":"Rock Paper Scissors Game",
@@ -212,6 +221,15 @@
         "modal":"#modal-07"
       },
       {
+        "title":"Tic Tac Toe",
+        "description":"Game",
+        "category":"React.js",
+        "tags":"Web game",
+        "image":"ttt.jpg",
+        "url":"https://tic-game.netlify.com/",
+        "modal":"#modal-03"
+      },
+      {
         "title":"Mybrary",
         "description":"Back end",
         "category":"Node.js",
@@ -237,15 +255,6 @@
         "image":"recipe.jpg",
         "url":"https://recipes-in-react.netlify.com/",
         "modal":"#modal-01"
-      },
-      {
-        "title":"M-Task",
-        "description":"system management and control panel",
-        "category":"React.js",
-        "tags":"web app",
-        "image":"m-task.jpg",
-        "url":"https://m-task.netlify.com/",
-        "modal":"#modal-0p"
       }
     ]
   },
