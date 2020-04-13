@@ -1,7 +1,9 @@
 {
   "main": {
     "name":"Abanoub Ayoub",
-    "occupation":"Front End Web Developer At DHS Arabia. ",
+    "occupation":"Front End Web Developer At ",
+    "company":"Terkwaz Business Solutions. ",
+    "companyLink":"https://terkwaz.com/",
     "description":"I am a Self-Learner and want to prove myself and enjoy working on new technologies.",
     "image":"profilepic.jpg",
     "bio":"I am a Self-Learner and want to prove myself and enjoy working on new technologies.I was a Veterinarian who loves programming and decided to shift career to what i have always loved",
@@ -50,12 +52,21 @@
     ],
     "work":[
       {
+        "company":"Terkwaz Business Solutions",
+        "companyLink":"https://terkwaz.com/",
+        "title":"Front End Developer",
+        "from":"04/2020",
+        "to":"now",
+        "description":"Wokring on React projects with Bitbucket and Jira Management systems"
+      },
+      {
         "company":"DHS Arabia",
+        "companyLink":"https://www.dhsarabia.com/",
         "title":"Front End Developer",
         "from":"01/2019",
+        "to":"04/2020",
         "description":"MVC Core Views is my main project using bootstrap and javascript and i am responsible for projects i am making by React and Angular"
       }
-    
     ],
     "skills":[
       {

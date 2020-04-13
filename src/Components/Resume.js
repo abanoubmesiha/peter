@@ -19,10 +19,9 @@ class Resume extends Component {
       var work = this.props.data.work.map(function(job){
         return <div key={job.company} className="row item">
            <div className="twelve columns">
-              <h3>{job.company}</h3>
+              <h3><a href={job.companyLink} className="companylink" target="_blank" rel="noopener noreferrer">{job.company}</a></h3>
               <p className="info">{job.title}</p>
-              <p>From {job.from}</p>
-
+              <p>From {job.from} to {job.to}</p>
               <p>{job.description}</p>
            </div>
         </div>
