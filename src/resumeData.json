@@ -4,9 +4,9 @@
     "occupation":"Front End Web Developer At ",
     "company":"Terkwaz Business Solutions. ",
     "companyLink":"https://terkwaz.com/",
-    "description":"I am a Self-Learner and want to prove myself and enjoy working on new technologies.",
+    "description":"I am a Front-end Developer, who was able to contribute, establish and maintin large projects (+100 pages) and add features to other mid-size projects in USA and Middle East",
     "image":"profilepic.jpg",
-    "bio":"I am a Self-Learner and want to prove myself and enjoy working on new technologies.I was a Veterinarian who loves programming and decided to shift career to what i have always loved",
+    "bio":"I am a detailed-oriented senior front-end developer, who can handle stress times professionally, easily follow strict rules, and never couldn't complete a task in time.",
     "email": "bony.nagy@gmail.com",
     "phone": "012-77-041-971",
     "address":{
@@ -57,7 +57,8 @@
         "title":"Front End Developer",
         "from":"04/2020",
         "to":"now",
-        "description":"Wokring on React projects with Bitbucket and Jira Management systems"
+        "description":"",
+        "description2":["Joind the Front-end team of creating and maintaing Blink.com", "Add features to Hemma, Riot, and Careers. (Terkwaz Projects)"]
       },
       {
         "company":"DHS Arabia",
@@ -65,13 +66,17 @@
         "title":"Front End Developer",
         "from":"01/2019",
         "to":"04/2020",
-        "description":"MVC Core Views is my main project using bootstrap and javascript and i am responsible for projects i am making by React and Angular"
+        "description":"Working on MVC Core Views for DHS Arabia using bootstrap and javascript and put the foundations for a React project"
       }
     ],
     "skills":[
       {
         "name":"React",
-        "level":"60%"
+        "level":"95%"
+      },
+      {
+        "name":"Jest",
+        "level":"50%"
       },
       {
         "name":"Angular",
@@ -83,15 +88,15 @@
       },
       {
         "name":"Javascript",
-        "level":"65%"
+        "level":"85%"
       },
       {
         "name":"ES6",
-        "level":"75%"
+        "level":"80%"
       },
       {
         "name":"Redux",
-        "level":"50%"
+        "level":"75%"
       },
       {
         "name":"MonogoDB",
@@ -127,7 +132,7 @@
       },
       {
         "name":"Sass",
-        "level":"40%"
+        "level":"75%"
       },
       {
         "name":"Webpack",

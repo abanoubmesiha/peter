@@ -22,7 +22,8 @@ class Resume extends Component {
               <h3><a href={job.companyLink} className="companylink" target="_blank" rel="noopener noreferrer">{job.company}</a></h3>
               <p className="info">{job.title}</p>
               <p>From {job.from} to {job.to}</p>
-              <p>{job.description}</p>
+              {job.description && <p>- {job.description}</p>}
+              {job.description2 && job.description2.map(d=><p>- {d}</p>)}
            </div>
         </div>
       });
