@@ -48,7 +48,17 @@
         "graduated":"June 2016",
         "description":"Bachelor's degree at veterinary surgery and medicine."
       }
-     
+    ],
+    "courses":[
+      {
+        "name":"CS50",
+        "date":"Jan 2020"
+      },
+      {
+        "name":"React Testing with Jest and Enzyme",
+        "date":"October 2020",
+        "link":"https://www.udemy.com/course/react-testing-with-jest-and-enzyme/"
+      }
     ],
     "work":[
       {
@@ -163,6 +173,15 @@
         "image":"car-rent.jpg",
         "url":"https://car-rent.netlify.com/",
         "modal":"#modal-10"
+      },
+      {
+        "title":"Jotto App",
+        "description":"App",
+        "category":"React.js Jest Enzyme",
+        "tags":"Game",
+        "image":"jotto.jpg",
+        "url":"https://jotto-jest.netlify.app/",
+        "modal":"#modal-00"
       },
       {
         "title":"Terkwaz",
