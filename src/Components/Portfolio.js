@@ -8,7 +8,7 @@ function PortfolioCat(props) {
                
             <div key={project.title} style={{marginBottom:'0.5rem'}} className="columns portfolio-item">
          <div className="item-wrap">
-            <a href={project.url} target="_blank" title="">
+            <a href={project.url} target="_blank" rel="noopener noreferrer" title="">
                <img alt="" src={imageUrl} />
                <div className="overlay">
                   <div className="portfolio-item-meta">
@@ -21,7 +21,7 @@ function PortfolioCat(props) {
      )
     });
     
- return ( result.length == 0)? false :(
+ return ( result.length === 0)? false :(
    <div id={props.Title +'-wrapper'} className="bgrid-thirds s-bgrid-thirds cf">
    <h4 style={{color:'#8bc34a'}}>{props.Title}</h4>
    {result}

@@ -9,7 +9,7 @@ class Header extends Component {
       var company = this.props.data.company;
       var companyLink = this.props.data.companyLink;
       var description = this.props.data.description;
-      var city = this.props.data.address.city;
+      // var city = this.props.data.address.city;
       var networks = this.props.data.social.map(function (network) {
         return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
       });
@@ -17,8 +17,8 @@ class Header extends Component {
     return (
       <header id="home">
         <nav id="nav-wrap">
-          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
-          <a className="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
+          {/* <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
+          <a className="mobile-btn" href="#" title="Hide navigation">Hide navigation</a> */}
           <ul id="nav" className="nav">
             <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
             <li><a className="smoothscroll" href="#about">About</a></li>
