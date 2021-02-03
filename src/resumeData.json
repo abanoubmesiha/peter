@@ -1,14 +1,14 @@
 {
   "main": {
-    "name":"Abanoub Ayoub",
-    "occupation":"Front End Web Developer At ",
-    "company":"Terkwaz Business Solutions. ",
-    "companyLink":"https://terkwaz.com/",
-    "description":"I am a Front-end Developer, who was able to contribute, establish and maintin large projects (+100 pages) and add features to other mid-size projects in USA and Middle East",
+    "name":"",
+    "occupation":"",
+    "company":"",
+    "companyLink":"",
+    "description":"",
     "image":"profilepic.jpg",
-    "bio":"I am a detailed-oriented senior front-end developer, who can handle stressful times professionally, easy to follow strict rules, and the man who completes the most hated tasks.",
-    "email": "bony.nagy@gmail.com",
-    "phone": "012-77-041-971",
+    "bio":"Able to create strong visual content based on given criteria, this content could be posters, banners, logos, interfaces or video advertisements. Familiar with design software and technologies (Illustrator, Photoshop, After Effect...etc)Brainstorms new and creative ideas and understands the criteria of a project to deliver a carefully crafted design. Good experience with social media platforms especially Facebook as I have worked in online marketing before joining Novartis and I own many facebook pages which have large number of followers (about 2 Millions) as mentioned below.",
+    "email": "peter2008ps@gmail.com",
+    "phone": "012-78-78-7115",
     "address":{
       "street":"",
       "city":"",
@@ -166,130 +166,85 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Car Rent",
-        "description":"App",
-        "category":"React.js",
-        "tags":"Service App",
-        "image":"car-rent.jpg",
-        "url":"https://car-rent.netlify.com/",
-        "modal":"#modal-10"
+        "title":"Moments of Pride 2021 video (Theme 1 )",
+        "description":"",
+        "category":"Novartis",
+        "tags":"",
+        "image":"Moments of Pride 2021 video (Theme 1 ).jpg",
+        "url":"https://drive.google.com/file/d/12mZV4w3AbiiQPoD6OuvqidY7Wc2nQXLS/view",
+        "modal":"#modal-1"
       },
       {
-        "title":"Jotto App",
-        "description":"App",
-        "category":"React.js Jest Enzyme",
-        "tags":"Game",
-        "image":"jotto.jpg",
-        "url":"https://jotto-jest.netlify.app/",
-        "modal":"#modal-00"
+        "title":"Moments of Pride 2021 video (Theme 2 )",
+        "description":"",
+        "category":"Novartis",
+        "tags":"",
+        "image":"Moments of Pride 2021 video (Theme 2 ).jpg",
+        "url":"https://drive.google.com/file/d/1S3CGzL41cSF9JhCJdTalM1i4eYAFA2ea/view",
+        "modal":"#modal-2"
       },
       {
-        "title":"Terkwaz",
-        "description":"digital services",
-        "category":"React.js",
-        "tags":"web app",
-        "image":"terkwaz.jpg",
-        "url":"https://terqwaz.netlify.com/",
-        "modal":"#modal-01"
+        "title":"MIDEA Video - Cycle Meeting 2021",
+        "description":"",
+        "category":"Novartis",
+        "tags":"",
+        "image":"MIDEA Video - Cycle Meeting 2021.jpg",
+        "url":"https://drive.google.com/file/d/1XS2Rtqv8Rn9pRmu-078a05jUDDvVbhIK/view",
+        "modal":"#modal-3"
       },
       {
-        "title":"M-Task",
-        "description":"system management and control panel",
-        "category":"React.js",
-        "tags":"web app",
-        "image":"m-task.jpg",
-        "url":"https://m-task.netlify.com/",
-        "modal":"#modal-0p"
+        "title":"My idea in MIDEA 2020 Platform",
+        "description":"",
+        "category":"Novartis",
+        "tags":"",
+        "image":"My idea in MIDEA 2020 Platform.jpg",
+        "url":"https://drive.google.com/file/d/1yNwijujGIF7OwBgPyQ7GsWGuEP14q6gy/view",
+        "modal":"#modal-4"
       },
       {
-        "title":"Budget Calculator",
-        "description":"App",
-        "category":"Angular",
-        "tags":"calculator App",
-        "image":"budget-cal.jpg",
-        "url":"https://budget-cal.netlify.com/",
-        "modal":"#modal-11"
+        "title":"SFE video for APMA Awards 2020 competition (long version)",
+        "description":"",
+        "category":"Novartis",
+        "tags":"",
+        "image":"SFE video for APMA Awards 2020 (long version).jpg",
+        "url":"https://drive.google.com/file/d/1Dyki6fji0QTrsdGLACh7KRmuvDrL8YOD/view",
+        "modal":"#modal-5"
       },
       {
-        "title":"Hotel",
-        "description":"App",
-        "category":"Angular",
-        "tags":"Service App",
-        "image":"hotel.jpg",
-        "url":"https://ng-hotel.netlify.com/",
-        "modal":"#modal-12"
+        "title":"SFE video for APMA Awards 2020 competition (short version)",
+        "description":"",
+        "category":"Novartis",
+        "tags":"",
+        "image":"SFE video for APMA Awards 2020 competition (short version).jpg",
+        "url":"https://drive.google.com/file/d/1oJrmX2drx2X3ET2gv3WrfXnbIrAXKyRi/view",
+        "modal":"#modal-6"
       },
       {
-        "title":"Rock Paper Scissors Game",
-        "description":"Game",
-        "category":"Javascript",
-        "tags":"game app",
-        "image":"rps.jpg",
-        "url":"https://rps-javascript.netlify.com/",
-        "modal":"#modal-05"
+        "title":"My Manager Party Video",
+        "description":"",
+        "category":"Novartis",
+        "tags":"",
+        "image":"My Manager Party Video.jpg",
+        "url":"https://drive.google.com/file/d/12yT59P_n4z5Umz-_X7doyGNbMGlo6zJz/view",
+        "modal":"#modal-7"
       },
       {
-        "title":"Skype",
-        "description":"website",
-        "category":"React.js, Redux, and data auto generating",
-        "tags":"social app",
-        "image":"skype.jpg",
-        "url":"https://skype.netlify.com/",
-        "modal":"#modal-04"
+        "title":"My video in NELP competition",
+        "description":"",
+        "category":"Novartis",
+        "tags":"",
+        "image":"My video in NELP competition.jpg",
+        "url":"https://drive.google.com/file/d/1U1QnlSMDqdQCrq4TxfOM66_H7mQi9mzu/view",
+        "modal":"#modal-8"
       },
       {
-        "title":"Ecommerce",
-        "description":"Online Shopping",
-        "category":"React.js , Context API",
-        "tags":"web app",
-        "image":"ecommerce-react.jpg",
-        "url":"https://ecommerce-react-context.netlify.com/",
-        "modal":"#modal-06"
-      },
-      {
-        "title":"Pixel Art Maker",
-        "description":"Design",
-        "category":"React.js",
-        "tags":"web app",
-        "image":"pixel.jpg",
-        "url":"https://pixel-react.netlify.com/",
-        "modal":"#modal-07"
-      },
-      {
-        "title":"Tic Tac Toe",
-        "description":"Game",
-        "category":"React.js",
-        "tags":"Web game",
-        "image":"ttt.jpg",
-        "url":"https://tic-game.netlify.com/",
-        "modal":"#modal-03"
-      },
-      {
-        "title":"Mybrary",
-        "description":"Back end",
-        "category":"Node.js",
-        "tags":"web app",
-        "image":"mybrary.png",
-        "url":"https://mybrary-backend.herokuapp.com/",
-        "modal":"#modal-08"
-      },
-      {
-        "title":"City Tours",
-        "description":"Tours Details",
-        "category":"React.js and Sass",
-        "tags":"Web app",
-        "image":"citytours.jpg",
-        "url":"https://city-tours-in-react-sass.netlify.com",
-        "modal":"#modal-02"
-      },
-      {
-        "title":"Recipe App",
-        "description":"Recipe details and links",
-        "category":"React.js",
-        "tags":"Web Design",
-        "image":"recipe.jpg",
-        "url":"https://recipes-in-react.netlify.com/",
-        "modal":"#modal-01"
+        "title":"Deticated to Medical staff martyrs due to Covid-19 epidemic",
+        "description":"",
+        "category":"Novartis",
+        "tags":"",
+        "image":"Deticated to Medical staff martyrs due to Covid-19 epidemic.jpg",
+        "url":"https://drive.google.com/file/d/1Aa-bUOydwon94ArxWN28GcaXsbMrarpl/view",
+        "modal":"#modal-9"
       }
     ]
   },
