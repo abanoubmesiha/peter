@@ -32,9 +32,9 @@ header {
    min-height: 500px;
    width: 100%;
    background-image: url(../images/portfolio/banner.jpg);
+   background-repeat: no-repeat;
    background-position: 0%;
    background-size: 100%;
-	-webkit-background-size: 100%;
    text-align: center;
    overflow: hidden;
 }
