@@ -13,7 +13,7 @@ class Footer extends Component {
 
             <ul className="copyright">
                <li>&copy; Copyright 2021 Peter Nagy </li>
-               <li>Design by <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/abanoub-ayoub-025890b7/">Peter Nagy</a></li>
+               {/* <li>Design by <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/abanoub-ayoub-025890b7/">Peter Nagy</a></li> */}
             </ul>
 
          </div>
