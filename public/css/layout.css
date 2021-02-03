@@ -31,9 +31,10 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat top center;
-   background-size: cover !important;
-	-webkit-background-size: cover !important;
+   background-image: url(../images/portfolio/banner.jpg);
+   background-position: 0%;
+   background-size: 100%;
+	-webkit-background-size: 100%;
    text-align: center;
    overflow: hidden;
 }
@@ -95,6 +96,11 @@ header .social li {
 header .social li a { color: #fff; }
 header .social li a:hover { color: #11ABB0; }
 
+.above-scrolldown {
+   position: absolute;
+   bottom: 50px;
+   left: 40%;
+}
 /* scrolldown link */
 header .scrolldown a {
    position: absolute;
