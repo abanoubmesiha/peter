@@ -32,23 +32,17 @@ function PortfolioCat(props) {
 class Portfolio extends Component {
   render() {
     if(this.props.data){
-       var portfolioAngular = this.props.data.projects.filter(p=>{return p.category.includes('Angular')});
-       var portfolioReact = this.props.data.projects.filter(p=>{return p.category.includes('React')});
-       var portfolioJS = this.props.data.projects.filter(p=>{return p.category.includes('Javascript')});
-       var portfolioNode = this.props.data.projects.filter(p=>{return p.category.includes('Node')});
-       var AllCat = Array.prototype.concat(portfolioAngular, portfolioReact, portfolioJS,portfolioNode);
-       var portfolioOther = this.props.data.projects.filter(p => !AllCat.includes(p));
+       var portfolioPersonal = this.props.data.projects.filter(p=>{return p.category.includes('Personal')});
+       var portfolioNovartis = this.props.data.projects.filter(p=>{return p.category.includes('Novartis')});
+      //  var AllCat = Array.prototype.concat(portfolioPersonal, portfolioNovartis);
     }
     return (
       <section id="portfolio">
       <div className="row">
          <div className="twelve columns collapsed text-center">
             <h1>Check Out Some of My Works.</h1>
-            <PortfolioCat Title={'React'} List={portfolioReact} />
-            <PortfolioCat Title={'Angular'} List={portfolioAngular} />
-            <PortfolioCat Title={'Javascript'} List={portfolioJS} />
-            <PortfolioCat Title={'Node.js'} List={portfolioNode} />
-            <PortfolioCat Title={'Other'} List={portfolioOther} />
+            <PortfolioCat Title={'Novartis'} List={portfolioNovartis} />
+            <PortfolioCat Title={'Personal'} List={portfolioPersonal} />
             </div>
          </div>
    </section>
