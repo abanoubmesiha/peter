@@ -41,8 +41,8 @@ class Portfolio extends Component {
       <div className="row">
          <div className="twelve columns collapsed text-center">
             <h1>Check Out Some of My Works.</h1>
-            <PortfolioCat Title={'Novartis'} List={portfolioNovartis} />
-            <PortfolioCat Title={'Personal'} List={portfolioPersonal} />
+            <PortfolioCat Title={'Videos'} List={portfolioNovartis} />
+            <PortfolioCat Title={'Photo Designs'} List={portfolioPersonal} />
             </div>
          </div>
    </section>
