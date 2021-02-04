@@ -197,7 +197,7 @@ ul#nav li.current a { color: #8bc34a; }
    overflow: hidden;
 }
 
-#about a, #about a:visited  { color: #fff; }
+#about a, #about a:visited  { color: #047377; }
 #about a:hover, #about a:focus { color: #11ABB0; }
 
 #about h2 {

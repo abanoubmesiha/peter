@@ -6,7 +6,7 @@
     "companyLink":"",
     "description":"",
     "image":"profilepic.jpg",
-    "bio":"Able to create strong visual content based on given criteria, this content could be posters, banners, logos, interfaces or video advertisements. Familiar with design software and technologies (Illustrator, Photoshop, After Effect...etc)Brainstorms new and creative ideas and understands the criteria of a project to deliver a carefully crafted design. Good experience with social media platforms especially Facebook as I have worked in online marketing before joining Novartis and I own many facebook pages which have large number of followers (about 2 Millions) as mentioned below.",
+    "bio":["Able to create strong visual content based on given criteria, this content could be posters, banners, logos, interfaces or video advertisements.", "Familiar with design software and technologies (Illustrator, Photoshop, After Effect...etc).", "Brainstorms new and creative ideas and understands the criteria of a project to deliver a carefully crafted design.", "Good experience with social media platforms especially Facebook as I have worked in online marketing before joining Novartis and I own many facebook pages which have large number of followers as mentioned below."],
     "email": "peter2008ps@gmail.com",
     "phone": "012-78-78-7115",
     "address":{
@@ -252,7 +252,7 @@
         "category": "Personal",
         "tags": "",
         "image": "001.jpg",
-        "url": "",
+        "url": "/images/portfolio/001.jpg",
         "modal": "#modal-10"
       },
       {
@@ -261,7 +261,7 @@
         "category": "Personal",
         "tags": "",
         "image": "002.jpg",
-        "url": "",
+        "url": "/images/portfolio/002.jpg",
         "modal": "#modal-11"
       },
       {
@@ -270,7 +270,7 @@
         "category": "Personal",
         "tags": "",
         "image": "003.jpg",
-        "url": "",
+        "url": "/images/portfolio/003.jpg",
         "modal": "#modal-12"
       },
       {
@@ -279,7 +279,7 @@
         "category": "Personal",
         "tags": "",
         "image": "004.png",
-        "url": "",
+        "url": "/images/portfolio/004.png",
         "modal": "#modal-13"
       },
       {
@@ -288,7 +288,7 @@
         "category": "Personal",
         "tags": "",
         "image": "005.png",
-        "url": "",
+        "url": "/images/portfolio/005.png",
         "modal": "#modal-14"
       },
       {
@@ -297,7 +297,7 @@
         "category": "Personal",
         "tags": "",
         "image": "006.jpg",
-        "url": "",
+        "url": "/images/portfolio/006.jpg",
         "modal": "#modal-15"
       },
       {
@@ -306,7 +306,7 @@
         "category": "Personal",
         "tags": "",
         "image": "007.jpg",
-        "url": "",
+        "url": "/images/portfolio/007.jpg",
         "modal": "#modal-16"
       },
       {
@@ -315,7 +315,7 @@
         "category": "Personal",
         "tags": "",
         "image": "008.jpg",
-        "url": "",
+        "url": "/images/portfolio/008.jpg",
         "modal": "#modal-17"
       },
       {
@@ -324,7 +324,7 @@
         "category": "Personal",
         "tags": "",
         "image": "009.jpg",
-        "url": "",
+        "url": "/images/portfolio/009.jpg",
         "modal": "#modal-18"
       },
       {
@@ -333,7 +333,7 @@
         "category": "Personal",
         "tags": "",
         "image": "010.jpg",
-        "url": "",
+        "url": "/images/portfolio/010.jpg",
         "modal": "#modal-19"
       },
       {
@@ -342,7 +342,7 @@
         "category": "Personal",
         "tags": "",
         "image": "011.jpg",
-        "url": "",
+        "url": "/images/portfolio/011.jpg",
         "modal": "#modal-20"
       },
       {
@@ -351,7 +351,7 @@
         "category": "Personal",
         "tags": "",
         "image": "012.jpg",
-        "url": "",
+        "url": "/images/portfolio/012.jpg",
         "modal": "#modal-21"
       },
       {
@@ -360,7 +360,7 @@
         "category": "Personal",
         "tags": "",
         "image": "013.jpg",
-        "url": "",
+        "url": "/images/portfolio/013.jpg",
         "modal": "#modal-22"
       },
       {
@@ -369,7 +369,7 @@
         "category": "Personal",
         "tags": "",
         "image": "014.jpg",
-        "url": "",
+        "url": "/images/portfolio/014.jpg",
         "modal": "#modal-23"
       },
       {
@@ -378,7 +378,7 @@
         "category": "Personal",
         "tags": "",
         "image": "015.jpg",
-        "url": "",
+        "url": "/images/portfolio/015.jpg",
         "modal": "#modal-24"
       },
       {
@@ -387,7 +387,7 @@
         "category": "Personal",
         "tags": "",
         "image": "016.jpeg",
-        "url": "",
+        "url": "/images/portfolio/016.jpeg",
         "modal": "#modal-25"
       },
       {
@@ -396,7 +396,7 @@
         "category": "Personal",
         "tags": "",
         "image": "017.jpg",
-        "url": "",
+        "url": "/images/portfolio/017.jpg",
         "modal": "#modal-26"
       },
       {
@@ -405,7 +405,7 @@
         "category": "Personal",
         "tags": "",
         "image": "018.jpg",
-        "url": "",
+        "url": "/images/portfolio/018.jpg",
         "modal": "#modal-27"
       },
       {
@@ -414,7 +414,7 @@
         "category": "Personal",
         "tags": "",
         "image": "019.jpg",
-        "url": "",
+        "url": "/images/portfolio/019.jpg",
         "modal": "#modal-28"
       },
       {
@@ -423,7 +423,7 @@
         "category": "Personal",
         "tags": "",
         "image": "020.jpg",
-        "url": "",
+        "url": "/images/portfolio/020.jpg",
         "modal": "#modal-29"
       },
       {
@@ -432,7 +432,7 @@
         "category": "Personal",
         "tags": "",
         "image": "021.jpg",
-        "url": "",
+        "url": "/images/portfolio/021.jpg",
         "modal": "#modal-30"
       },
       {
@@ -441,7 +441,7 @@
         "category": "Personal",
         "tags": "",
         "image": "022.jpg",
-        "url": "",
+        "url": "/images/portfolio/022.jpg",
         "modal": "#modal-31"
       },
       {
@@ -450,7 +450,7 @@
         "category": "Personal",
         "tags": "",
         "image": "023.jpg",
-        "url": "",
+        "url": "/images/portfolio/023.jpg",
         "modal": "#modal-32"
       },
       {
@@ -459,7 +459,7 @@
         "category": "Personal",
         "tags": "",
         "image": "024.jpg",
-        "url": "",
+        "url": "/images/portfolio/024.jpg",
         "modal": "#modal-33"
       },
       {
@@ -468,7 +468,7 @@
         "category": "Personal",
         "tags": "",
         "image": "025.jpg",
-        "url": "",
+        "url": "/images/portfolio/025.jpg",
         "modal": "#modal-34"
       },
       {
@@ -477,7 +477,7 @@
         "category": "Personal",
         "tags": "",
         "image": "026.png",
-        "url": "",
+        "url": "/images/portfolio/026.png",
         "modal": "#modal-35"
       },
       {
@@ -486,7 +486,7 @@
         "category": "Personal",
         "tags": "",
         "image": "027.jpg",
-        "url": "",
+        "url": "/images/portfolio/027.jpg",
         "modal": "#modal-36"
       },
       {
@@ -495,7 +495,7 @@
         "category": "Personal",
         "tags": "",
         "image": "028.png",
-        "url": "",
+        "url": "/images/portfolio/028.png",
         "modal": "#modal-37"
       },
       {
@@ -504,7 +504,7 @@
         "category": "Personal",
         "tags": "",
         "image": "5.png",
-        "url": "",
+        "url": "/images/portfolio/5.png",
         "modal": "#modal-38"
       }
     ]
