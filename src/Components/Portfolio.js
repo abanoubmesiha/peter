@@ -38,9 +38,14 @@ class Portfolio extends Component {
     }
     return (
       <section id="portfolio">
-      <div className="row d-flex justify-content-center">
-         <div className="nine columns collapsed text-center">
-            <h1>Check below some of my ideas i have executed in graghic designs and videos either in my work for Novartis or in my personal life.</h1>
+      <div className="row">
+      <dic className="nine columns">
+       <h1>Check below some of my ideas i have executed in graghic designs and videos either in my work for Novartis or in my personal life.</h1>
+      </div>
+      </div>
+      <div className="row">
+         <div className="twelve columns collapsed text-center">
+            
             <PortfolioCat Title={'Videos'} List={portfolioNovartis} />
             <PortfolioCat Title={'Photo Designs'} List={portfolioPersonal} />
             </div>
