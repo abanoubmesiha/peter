@@ -39,7 +39,7 @@ class Portfolio extends Component {
     return (
       <section id="portfolio">
       <div className="row">
-      <dic className="nine columns">
+      <div className="nine columns">
        <h1>Check below some of my ideas i have executed in graghic designs and videos either in my work for Novartis or in my personal life.</h1>
       </div>
       </div>
