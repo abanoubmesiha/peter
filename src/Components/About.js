@@ -26,7 +26,6 @@ class About extends Component {
             <ul>
                {bio.map((point, i)=>(<li key={i}>{point}</li>))}
                <li>
-               Worked in online marketing before joining Novartis and it helped me to own a group of social Facebook pages with a total followers reach more than 6 million followers. 
                   <ol>
                      <li><a href="https://www.facebook.com/Connect4.Online" rel="noreferrer">https://www.facebook.com/Connect4.Online</a></li>
                      <li><a href="https://www.facebook.com/Sharek.Br2yak" rel="noreferrer">https://www.facebook.com/Sharek.Br2yak</a></li>
@@ -44,23 +43,23 @@ class About extends Component {
             </ul>
             <h2>My Objective</h2>
             <p>Following a developmental plan to empower my technical qualifications with the important academic knowledge of Digital Marketing Principles and Requirements to help me join Novartis Digital Marketing Team.</p>
-            <div className="row">
+            {\*<div className="row">
                <div className="columns contact-details">
                   <h2 style={{marginBottom: '5px'}}>Contact Details</h2>
                   <p className="address">
-						   {/* <span>{name}</span><br /> */}
+						   {/* <span>{name}</span><br /> 
 						   {state} 
                      <br />
 						   <span>{phone}</span><br />
                      <span>{email}</span>
 					   </p>
                </div>
-               {/* <div className="columns download">
+                <div className="columns download">
                   <p>
                      <a href={resumeDownload} target="_blank" rel="noopener noreferrer" className="button"><i className="fa fa-download"></i>Download Resume</a>
                   </p>
-               </div> */}
-            </div>
+               </div> 
+            </div>*/}
          </div>
       </div>
    </section>
