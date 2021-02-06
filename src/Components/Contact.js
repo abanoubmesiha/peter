@@ -101,7 +101,7 @@ class Contact extends Component {
 
           </div>
 
-
+{\*
           <aside className="four columns footer-widgets">
 
             <div className="widget widget_contact">
@@ -118,6 +118,7 @@ class Contact extends Component {
 
 
           </aside>
+*/}
         </div>
 
       </section>
