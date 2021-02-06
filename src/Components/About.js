@@ -26,6 +26,8 @@ class About extends Component {
             <ul>
                {bio.map((point, i)=>(<li key={i}>{point}</li>))}
                <li>
+
+‏Good experience with social media platforms especially Facebook as I have worked in online marketing before joining Novartis and I own many facebook pages which have large number of followers reach more than 6 million followers as shown below
                   <ol>
                      <li><a href="https://www.facebook.com/Connect4.Online" rel="noreferrer">https://www.facebook.com/Connect4.Online</a></li>
                      <li><a href="https://www.facebook.com/Sharek.Br2yak" rel="noreferrer">https://www.facebook.com/Sharek.Br2yak</a></li>
