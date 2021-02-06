@@ -45,7 +45,7 @@ class About extends Component {
             </ul>
             <h2>My Objective</h2>
             <p>Following a developmental plan to empower my technical qualifications with the important academic knowledge of Digital Marketing Principles and Requirements to help me join Novartis Digital Marketing Team.</p>
-            {\*<div className="row">
+            {/*<div className="row">
                <div className="columns contact-details">
                   <h2 style={{marginBottom: '5px'}}>Contact Details</h2>
                   <p className="address">
