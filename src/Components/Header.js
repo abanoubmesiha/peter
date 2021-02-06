@@ -29,6 +29,7 @@ class Header extends Component {
 
         </nav>
 
+        {/*
         <div className="row banner">
           <div className="banner-text">
             <h1 className="responsive-headline">{name}</h1>
@@ -36,7 +37,7 @@ class Header extends Component {
             <hr />
           </div>
         </div>
-        {/* <ul className="above-scrolldown social">
+        <ul className="above-scrolldown social">
           {networks}
         </ul> */}
         <p className="scrolldown">
