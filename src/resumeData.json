@@ -1,250 +1,256 @@
 {
   "main": {
-    "name":"",
-    "occupation":"",
-    "company":"",
-    "companyLink":"",
-    "description":"",
-    "image":"profilepic.jpg",
-    "bio":["Able to create strong visual content based on given criteria, this content could be posters, banners, logos, interfaces or video advertisements.", "Professional in using design software and technologies (Illustrator, Photoshop, After Effect...etc).", "Brainstorms new and creative ideas and understands the criteria of a project to deliver a carefully crafted design.",],
+    "name": "",
+    "occupation": "",
+    "company": "",
+    "companyLink": "",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": [
+      "Able to create strong visual content based on given criteria, this content could be posters, banners, logos, interfaces or video advertisements.",
+      "Professional in using design software and technologies (Illustrator, Photoshop, After Effect...etc).",
+      "Brainstorms new and creative ideas and understands the criteria of a project to deliver a carefully crafted design."
+    ],
     "email": "peter2008ps@gmail.com",
     "phone": "012-78-78-7115",
-    "address":{
-      "street":"",
-      "city":"",
-      "state":"Cairo",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "Cairo",
       "zip": ""
     },
     "website": "https://app.netlify.com/teams/abanoubmesiha/sites",
-    "resumedownload":"https://www.dropbox.com/s/ufgb8zylwbovres/abanoub%20ayoub%20cv.docx?dl=0",
-    "social":[
+    "resumedownload": "https://www.dropbox.com/s/ufgb8zylwbovres/abanoub%20ayoub%20cv.docx?dl=0",
+    "social": [
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/Bony.mese7a",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "https://www.facebook.com/Bony.mese7a",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/abanoub-ayoub-025890b7/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/abanoub-ayoub-025890b7/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"github",
-        "url":"https://github.com/abanoubmesiha/",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/abanoubmesiha/",
+        "className": "fa fa-github"
       },
       {
-        "name":"stackoverflow",
-        "url":"https://stackoverflow.com/users/12149687/abanoub-meseha",
-        "className":"fa fa-stack-overflow"
+        "name": "stackoverflow",
+        "url": "https://stackoverflow.com/users/12149687/abanoub-meseha",
+        "className": "fa fa-stack-overflow"
       }
     ]
   },
-  "resume":{
-    "education":[
+  "resume": {
+    "education": [
       {
-        "school":"KFS University of Veterinary Medicine",
-        "degree":"Bachelor",
-        "graduated":"June 2016",
-        "description":"Bachelor's degree at veterinary surgery and medicine."
+        "school": "KFS University of Veterinary Medicine",
+        "degree": "Bachelor",
+        "graduated": "June 2016",
+        "description": "Bachelor's degree at veterinary surgery and medicine."
       }
     ],
-    "courses":[
+    "courses": [
       {
-        "name":"CS50",
-        "date":"Jan 2020"
+        "name": "CS50",
+        "date": "Jan 2020"
       },
       {
-        "name":"React Testing with Jest and Enzyme",
-        "date":"October 2020",
-        "link":"https://www.udemy.com/course/react-testing-with-jest-and-enzyme/"
+        "name": "React Testing with Jest and Enzyme",
+        "date": "October 2020",
+        "link": "https://www.udemy.com/course/react-testing-with-jest-and-enzyme/"
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Terkwaz Business Solutions",
-        "companyLink":"https://terkwaz.com/",
-        "title":"Front End Developer",
-        "from":"04/2020",
-        "to":"now",
-        "description":"",
-        "description2":["Joind the Front-end team of creating and maintaing blinklos.com", "Add features to Hemma, Riot, and Careers. (Terkwaz Projects)"]
+        "company": "Terkwaz Business Solutions",
+        "companyLink": "https://terkwaz.com/",
+        "title": "Front End Developer",
+        "from": "04/2020",
+        "to": "now",
+        "description": "",
+        "description2": [
+          "Joind the Front-end team of creating and maintaing blinklos.com",
+          "Add features to Hemma, Riot, and Careers. (Terkwaz Projects)"
+        ]
       },
       {
-        "company":"DHS Arabia",
-        "companyLink":"https://www.dhsarabia.com/",
-        "title":"Front End Developer",
-        "from":"01/2019",
-        "to":"04/2020",
-        "description":"Working on MVC Core Views for DHS Arabia using bootstrap and javascript and put the foundations for a React project"
+        "company": "DHS Arabia",
+        "companyLink": "https://www.dhsarabia.com/",
+        "title": "Front End Developer",
+        "from": "01/2019",
+        "to": "04/2020",
+        "description": "Working on MVC Core Views for DHS Arabia using bootstrap and javascript and put the foundations for a React project"
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"React",
-        "level":"95%"
+        "name": "React",
+        "level": "95%"
       },
       {
-        "name":"Jest",
-        "level":"50%"
+        "name": "Jest",
+        "level": "50%"
       },
       {
-        "name":"Angular",
-        "level":"35%"
+        "name": "Angular",
+        "level": "35%"
       },
       {
-        "name":"MVC Core Views",
-        "level":"40%"
+        "name": "MVC Core Views",
+        "level": "40%"
       },
       {
-        "name":"Javascript",
-        "level":"85%"
+        "name": "Javascript",
+        "level": "85%"
       },
       {
-        "name":"ES6",
-        "level":"80%"
+        "name": "ES6",
+        "level": "80%"
       },
       {
-        "name":"Redux",
-        "level":"75%"
+        "name": "Redux",
+        "level": "75%"
       },
       {
-        "name":"MonogoDB",
-        "level":"50%"
+        "name": "MonogoDB",
+        "level": "50%"
       },
       {
-        "name":"Express.js",
-        "level":"50%"
+        "name": "Express.js",
+        "level": "50%"
       },
       {
-        "name":"Node.js",
-        "level":"50%"
+        "name": "Node.js",
+        "level": "50%"
       },
       {
-        "name":"jQuery",
-        "level":"60%"
+        "name": "jQuery",
+        "level": "60%"
       },
       {
-        "name":"AJAX",
-        "level":"50%"
+        "name": "AJAX",
+        "level": "50%"
       },
       {
-        "name":"HTML5",
-        "level":"65%"
+        "name": "HTML5",
+        "level": "65%"
       },
       {
-        "name":"CSS3",
-        "level":"50%"
+        "name": "CSS3",
+        "level": "50%"
       },
       {
-        "name":"Bootstrap",
-        "level":"50%"
+        "name": "Bootstrap",
+        "level": "50%"
       },
       {
-        "name":"Sass",
-        "level":"75%"
+        "name": "Sass",
+        "level": "75%"
       },
       {
-        "name":"Webpack",
-        "level":"35%"
+        "name": "Webpack",
+        "level": "35%"
       },
       {
-        "name":"Adobe Photoshop",
-        "level":"80%"
+        "name": "Adobe Photoshop",
+        "level": "80%"
       },
       {
-        "name":"CorelDRAW",
-        "level":"90%"
+        "name": "CorelDRAW",
+        "level": "90%"
       },
       {
-        "name":"Github",
-        "level":"90%"
+        "name": "Github",
+        "level": "90%"
       }
-      
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Moments of Pride 2021 video (Theme 1 )",
-        "description":"",
-        "category":"Novartis",
-        "tags":"",
-        "image":"Moments of Pride 2021 video (Theme 1 ).jpg",
-        "url":"https://drive.google.com/file/d/12mZV4w3AbiiQPoD6OuvqidY7Wc2nQXLS/view",
-        "modal":"#modal-1"
+        "title": "Moments of Pride 2021 video (Theme 1 )",
+        "description": "",
+        "category": "Novartis",
+        "tags": "",
+        "image": "Moments of Pride 2021 video (Theme 1 ).jpg",
+        "url": "https://drive.google.com/file/d/12mZV4w3AbiiQPoD6OuvqidY7Wc2nQXLS/view",
+        "modal": "#modal-1"
       },
       {
-        "title":"Moments of Pride 2021 video (Theme 2 )",
-        "description":"",
-        "category":"Novartis",
-        "tags":"",
-        "image":"Moments of Pride 2021 video (Theme 2 ).jpg",
-        "url":"https://drive.google.com/file/d/1S3CGzL41cSF9JhCJdTalM1i4eYAFA2ea/view",
-        "modal":"#modal-2"
+        "title": "Moments of Pride 2021 video (Theme 2 )",
+        "description": "",
+        "category": "Novartis",
+        "tags": "",
+        "image": "Moments of Pride 2021 video (Theme 2 ).jpg",
+        "url": "https://drive.google.com/file/d/1S3CGzL41cSF9JhCJdTalM1i4eYAFA2ea/view",
+        "modal": "#modal-2"
       },
       {
-        "title":"MIDEA Video - Cycle Meeting 2021",
-        "description":"",
-        "category":"Novartis",
-        "tags":"",
-        "image":"MIDEA Video - Cycle Meeting 2021.jpg",
-        "url":"https://drive.google.com/file/d/1XS2Rtqv8Rn9pRmu-078a05jUDDvVbhIK/view",
-        "modal":"#modal-3"
+        "title": "MIDEA Video - Cycle Meeting 2021",
+        "description": "",
+        "category": "Novartis",
+        "tags": "",
+        "image": "MIDEA Video - Cycle Meeting 2021.jpg",
+        "url": "https://drive.google.com/file/d/1XS2Rtqv8Rn9pRmu-078a05jUDDvVbhIK/view",
+        "modal": "#modal-3"
       },
       {
-        "title":"My idea in MIDEA 2020 Platform",
-        "description":"",
-        "category":"Novartis",
-        "tags":"",
-        "image":"My idea in MIDEA 2020 Platform.jpg",
-        "url":"https://drive.google.com/file/d/1yNwijujGIF7OwBgPyQ7GsWGuEP14q6gy/view",
-        "modal":"#modal-4"
+        "title": "My idea in MIDEA 2020 Platform",
+        "description": "",
+        "category": "Novartis",
+        "tags": "",
+        "image": "My idea in MIDEA 2020 Platform.jpg",
+        "url": "https://drive.google.com/file/d/1yNwijujGIF7OwBgPyQ7GsWGuEP14q6gy/view",
+        "modal": "#modal-4"
       },
       {
-        "title":"SFE video for APMA Awards 2020 competition (long version)",
-        "description":"",
-        "category":"Novartis",
-        "tags":"",
-        "image":"SFE video for APMA Awards 2020 (long version).jpg",
-        "url":"https://drive.google.com/file/d/1Dyki6fji0QTrsdGLACh7KRmuvDrL8YOD/view",
-        "modal":"#modal-5"
+        "title": "SFE video for APMA Awards 2020 competition (long version)",
+        "description": "",
+        "category": "Novartis",
+        "tags": "",
+        "image": "SFE video for APMA Awards 2020 (long version).jpg",
+        "url": "https://drive.google.com/file/d/1Dyki6fji0QTrsdGLACh7KRmuvDrL8YOD/view",
+        "modal": "#modal-5"
       },
       {
-        "title":"SFE video for APMA Awards 2020 competition (short version)",
-        "description":"",
-        "category":"Novartis",
-        "tags":"",
-        "image":"SFE video for APMA Awards 2020 competition (short version).jpg",
-        "url":"https://drive.google.com/file/d/1oJrmX2drx2X3ET2gv3WrfXnbIrAXKyRi/view",
-        "modal":"#modal-6"
+        "title": "SFE video for APMA Awards 2020 competition (short version)",
+        "description": "",
+        "category": "Novartis",
+        "tags": "",
+        "image": "SFE video for APMA Awards 2020 competition (short version).jpg",
+        "url": "https://drive.google.com/file/d/1oJrmX2drx2X3ET2gv3WrfXnbIrAXKyRi/view",
+        "modal": "#modal-6"
       },
       {
-        "title":"My Manager Party Video",
-        "description":"",
-        "category":"Novartis",
-        "tags":"",
-        "image":"My Manager Party Video.jpg",
-        "url":"https://drive.google.com/file/d/12yT59P_n4z5Umz-_X7doyGNbMGlo6zJz/view",
-        "modal":"#modal-7"
+        "title": "My Manager Party Video",
+        "description": "",
+        "category": "Novartis",
+        "tags": "",
+        "image": "My Manager Party Video.jpg",
+        "url": "https://drive.google.com/file/d/12yT59P_n4z5Umz-_X7doyGNbMGlo6zJz/view",
+        "modal": "#modal-7"
       },
       {
-        "title":"My video in NELP competition",
-        "description":"",
-        "category":"Novartis",
-        "tags":"",
-        "image":"My video in NELP competition.jpg",
-        "url":"https://drive.google.com/file/d/1U1QnlSMDqdQCrq4TxfOM66_H7mQi9mzu/view",
-        "modal":"#modal-8"
+        "title": "My video in NELP competition",
+        "description": "",
+        "category": "Novartis",
+        "tags": "",
+        "image": "My video in NELP competition.jpg",
+        "url": "https://drive.google.com/file/d/1U1QnlSMDqdQCrq4TxfOM66_H7mQi9mzu/view",
+        "modal": "#modal-8"
       },
       {
-        "title":"Deticated to Medical staff martyrs due to Covid-19 epidemic",
-        "description":"",
-        "category":"Novartis",
-        "tags":"",
-        "image":"Deticated to Medical staff martyrs due to Covid-19 epidemic.jpg",
-        "url":"https://drive.google.com/file/d/1Aa-bUOydwon94ArxWN28GcaXsbMrarpl/view",
-        "modal":"#modal-9"
+        "title": "Deticated to Medical staff martyrs due to Covid-19 epidemic",
+        "description": "",
+        "category": "Novartis",
+        "tags": "",
+        "image": "Deticated to Medical staff martyrs due to Covid-19 epidemic.jpg",
+        "url": "https://drive.google.com/file/d/1Aa-bUOydwon94ArxWN28GcaXsbMrarpl/view",
+        "modal": "#modal-9"
       },
       {
         "title": "",
@@ -509,11 +515,11 @@
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"",
-        "user":""
+        "text": "",
+        "user": ""
       }
     ]
   }
